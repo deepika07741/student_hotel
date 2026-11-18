@@ -1,2 +1,2 @@
-# student_hotel
+# student_portal
 simple student portale web application
